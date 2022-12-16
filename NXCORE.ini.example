@@ -3,7 +3,10 @@
 #Written By: KD9IAQ
 #Last Revised: 11-16-2021
 #
-#This guide will help explain what each entry and setting within your nxcore.ini is for and how each affects behavior of #NXCore. #Also provided at the very bottom of this guide is a one local and three remote repeater example template to help you get started.
+#This guide will help explain what each entry and setting within your nxcore.ini is for and how each affects behavior of #NXCore.
+#It is suggested copy/paste this guide directly into the body of your NXCore.ini file to allow for ease of future reference when making config changes.
+
+#Also provided at the very bottom of this guide is a one local and three remote repeater example template to help you get started.
 #----------------------------------------------------------------------------------------------------
 #
 #GENERAL SETTINGS (Repeater allow list, static ip address, and gps mapping)
